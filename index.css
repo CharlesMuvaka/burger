@@ -3,3 +3,9 @@
     width: 100%;
     height: 700px;
 }
+.cont-l, .cont-r{
+    height: auto;
+    width: 50%;
+    display: inherit;
+    flex-direction: column;
+}

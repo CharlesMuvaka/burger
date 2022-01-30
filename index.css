@@ -16,3 +16,7 @@
 .cont-r{
     background-color: yellow;
 }
+.logo, .link{
+    display: inherit;
+    align-items: center;
+}

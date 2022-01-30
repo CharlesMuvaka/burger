@@ -9,3 +9,10 @@
     display: inherit;
     flex-direction: column;
 }
+.cont-l{
+    background-color: red;
+
+}
+.cont-r{
+    background-color: yellow;
+}

@@ -1,3 +1,6 @@
+*{
+    font-family: poppins;
+}
 .container{
     display: flex;
     width: 100%;
@@ -21,6 +24,14 @@
     display: inherit;
     align-items: center;
     height: 100px;
+}
+.logo h1{
+    font-family: lobster;
+}
+.logo h1 span{
+    color: yellow;
+    font-family: lobster;
+
 }
 .link{
     justify-content: space-around;

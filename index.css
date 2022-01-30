@@ -14,7 +14,7 @@
     
 }
 .cont-r{
-    background-color: yellow;
+    background-color: #f6b400;
 }
 .logo, .link{
     display: inherit;
@@ -25,7 +25,7 @@
     font-family: lobster;
 }
 .logo h1 span{
-    color: yellow;
+    color: #f6b400;
     font-family: lobster;
 
 }
@@ -53,7 +53,7 @@ a:link{
     height: 40px;
     width: 100px;
     border: 1px;
-    background-color:#F6B400;
+    background-color:#f6b400;
     border-radius: 30px 30px 0 30px;
     color: white;
 }

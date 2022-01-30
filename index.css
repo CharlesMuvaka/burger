@@ -32,3 +32,8 @@
     height: 30px;
     width: 30px;
 }
+a:link{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}

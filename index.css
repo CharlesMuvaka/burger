@@ -122,3 +122,9 @@ a:link{
 .menu2 h2 span{
     color:#f6b400;
 }
+.menu3{
+    height: 800px;
+    width: 100%;
+    flex-wrap: wrap;
+    display: inherit;
+}

@@ -96,3 +96,8 @@ a:link{
     height: 50px;
     width: 50px;
 }
+.offer p{
+    width: 95%;
+    text-shadow: 50px;
+    font-size: 0.8em;
+}

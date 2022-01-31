@@ -108,5 +108,14 @@ a:link{
 .menu1{
     height: 500px;
     width: auto;
+    display: flex;
+    flex-direction: column;
     
+}
+.menu2{
+    height: 100px;
+    display: inherit;
+    flex-direction: inherit;
+    justify-content: center;
+    align-items: center;
 }

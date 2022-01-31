@@ -71,7 +71,7 @@ a:link{
     align-items: center;
 }
 .offer{
-    height: 400px;
+    height: 450px;
     width: auto;
     background-color: rgb(247, 239, 239);
     display: flex;
@@ -79,7 +79,7 @@ a:link{
     align-items: center;
 }
 .off1, .off2, .off3{
-    height: 200px;
+    height: 250px;
     width: 30%;
     border: 1px solid gray;
     border-radius: 10px;
@@ -87,4 +87,8 @@ a:link{
 }
 .off2{
     height: 300px;
+}
+.offer img{
+    height: 50px;
+    width: 50px;
 }

@@ -73,5 +73,15 @@ a:link{
 .offer{
     height: 400px;
     width: auto;
-    background-color: rgb(184, 171, 171);
+    background-color: rgb(247, 239, 239);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.off1, .off2, .off3{
+    height: 200px;
+    width: 30%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    
 }

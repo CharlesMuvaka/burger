@@ -83,6 +83,10 @@ a:link{
     width: 30%;
     border: 1px solid gray;
     border-radius: 10px;
+    display: inherit;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     
 }
 .off2{

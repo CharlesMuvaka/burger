@@ -106,14 +106,14 @@ a:link{
 
 }
 .menu1{
-    height: 500px;
+    height: 1200px;
     width: auto;
     display: flex;
     flex-direction: column;
     
 }
 .menu2{
-    height: 100px;
+    height: 200px;
     display: inherit;
     flex-direction: inherit;
     justify-content: center;
@@ -123,14 +123,15 @@ a:link{
     color:#f6b400;
 }
 .menu3{
-    height: 800px;
-    width: 90%;
+    height: 1100px;
+    width: 100%;
     flex-wrap: wrap;
     display: inherit;
+    justify-content: space-evenly;
 }
 .menu3 div{
-    height: 400px;
-    width: 25%;
+    height: 500px;
+    width: 30%;
     border: 1px solid grey;
     border-radius: 20px;
     background-color: maroon;

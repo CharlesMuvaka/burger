@@ -70,3 +70,8 @@ a:link{
     justify-content: center;
     align-items: center;
 }
+.offer{
+    height: 400px;
+    width: auto;
+    background-color: rgb(184, 171, 171);
+}
